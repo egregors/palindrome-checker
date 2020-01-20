@@ -1,8 +1,6 @@
-{-# LANGUAGE OverloadedStrings #-}
-
 module Main where
 
-import           Lib
+import           Palindrome
 import           Data.Text                     as T
 import           Data.Text.IO                  as TIO
 
